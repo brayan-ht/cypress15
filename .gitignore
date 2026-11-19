@@ -43,3 +43,7 @@ yarn-error.log*
 
 # Editor backups
 *.bak
+
+node_modules/
+.env
+.env.local
